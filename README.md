@@ -19,13 +19,16 @@ settings:
 * hide special events
 * change watch face title
 * daylight saving
-* daylight duration variables, depending your location
+* daylight duration variables, depending on your location
 * refresh rate
 
 styles:
 * zoom
 * position
 * colors
+
+known bugs:
+* illustration of moonphase in first quarter moon, yellow shines through around the edges
 
 TODOs:
 * make it github ready : D

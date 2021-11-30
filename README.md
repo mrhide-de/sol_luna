@@ -1,6 +1,4 @@
-# sol_luna
-sol luna
-==========================
+# sol luna
 
 A clock for Übersicht.
 

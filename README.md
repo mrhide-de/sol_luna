@@ -10,7 +10,7 @@ features:
 * time (animated digits)
 * progress of year (outer circle, screenshot shows Dec 1st)
 * night time duration & sundial (inner circle, screenshot shows sundown around 4pm, the sun is positioned according to the time)
-* moon phases (inmost circle, going around clockwise, at 12 is full moon, at six new moon)
+* moonphases (inmost circle, going around clockwise, at twelve is full moon, at six new moon)
 * special events (full moon, equinox etc.)
 
 settings:

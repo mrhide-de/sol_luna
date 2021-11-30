@@ -19,7 +19,7 @@ settings:
 * hide special events
 * change watch face title
 * daylight saving
-* daylight saving variables, depending your location
+* daylight duration variables, depending your location
 * refresh rate
 
 styles:

@@ -6,7 +6,7 @@ A clock for Übersicht.
 
 ![sol luna screenshot](screenshot.jpg)
 
-[download Übersicht:](https://tracesof.net/uebersicht/)
+[download Übersicht](https://tracesof.net/uebersicht/)
 
 features:
 * time
@@ -36,6 +36,6 @@ TODOs:
 * ...
 
 
-moon phase calculation by John Conway
+moonphase calculation by John Conway
 
 more at [mrhide.de/nerd](https://mrhide.de/nerd)
